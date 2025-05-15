@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Favorite Animal – My Dog</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+  <header class="bg-yellow-100 p-6 shadow-md">
+    <h1 class="text-3xl font-bold text-center">My Favorite Animal: My Dog</h1>
+  </header>
+
+  <main class="max-w-3xl mx-auto p-6 space-y-8">
+    <section>
+      <h2 class="text-2xl font-semibold mb-2">Our Journey</h2>
+      <p>
+        I got my childhood dog when I was around 11 years old, and he has been with me through all of life’s milestones—from high school to college. He's been my best friend and constant companion for 9 years, and I’ve taken him everywhere I've gone.
+      </p>
+    </section>
+
+    <section>
+      <h2 class="text-2xl font-semibold mb-2">What He Means to Me</h2>
+      <p>
+        My dog brings me happiness, joy, and a sense of belonging. He’s been there for countless memorable moments—my first sports matches, graduation, and every quiet evening in between. The bond we share is unbreakable.
+      </p>
+    </section>
+
+    <section>
+      <h2 class="text-2xl font-semibold mb-2">Why Dogs Are So Special</h2>
+      <p>
+        Dogs are loyal, loving, and emotionally in tune with their humans. Many people see their pets as family—and rightly so. Their companionship, empathy, and unconditional love are unlike anything else. They aren’t just animals; they’re our kids, our protectors, and our best friends.
+      </p>
+    </section>
+  </main>
+
+  <footer class="text-center bg-yellow-100 p-4 mt-8">
+    <p>&copy; 2025 Made with love for my best friend 🐾</p>
+  </footer>
+</body>
+</html>
